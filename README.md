@@ -21,6 +21,6 @@ This will create a Docker image with the name glance-care.
 To run the container, use the following command:
 
 ```bash
-docker run --env-file .env glance-care
+docker run --env-file .env -p 3000:3000 glance-care
 ```
 This will start a new container from the glance-care image, using the environment variables defined in the .env file.
