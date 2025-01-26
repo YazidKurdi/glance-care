@@ -1,0 +1,408 @@
+    [{
+      "title": "Inception",
+      "year": "2010",
+      "genre": ["Sci-Fi", "Thriller"],
+      "country": ["USA", "UK"],
+      "imdb_rating": 8.8,
+      "oscar_nominations": 8,
+      "oscar_winning": 4,
+      "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+      "language": ["English", "Japanese", "French"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Director",
+        "Best Cinematography",
+        "Best Visual Effects"
+      ],
+      "oscar_winning_list": [
+        "Best Cinematography",
+        "Best Visual Effects",
+        "Best Sound Editing",
+        "Best Sound Mixing"
+      ]
+    },
+    {
+      "title": "The Dark Knight",
+      "year": "2008",
+      "genre": ["Action", "Crime", "Drama"],
+      "country": ["USA"],
+      "imdb_rating": 9.0,
+      "oscar_nominations": 8,
+      "oscar_winning": 2,
+      "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+      "language": ["English"],
+      "oscar_nominations_list": [
+        "Best Supporting Actor",
+        "Best Cinematography",
+        "Best Visual Effects"
+      ],
+      "oscar_winning_list": ["Best Supporting Actor", "Best Sound Editing"]
+    },
+    {
+      "title": "Parasite",
+      "year": "2019",
+      "genre": ["Drama", "Thriller"],
+      "country": ["South Korea"],
+      "imdb_rating": 8.6,
+      "oscar_nominations": 6,
+      "oscar_winning": 4,
+      "cast": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"],
+      "language": ["Korean", "English"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Director",
+        "Best Screenplay",
+        "Best International Feature"
+      ],
+      "oscar_winning_list": [
+        "Best Picture",
+        "Best Director",
+        "Best Screenplay",
+        "Best International Feature"
+      ]
+    },
+    {
+      "title": "The Godfather",
+      "year": "1972",
+      "genre": ["Crime", "Drama"],
+      "country": ["USA"],
+      "imdb_rating": 9.2,
+      "oscar_nominations": 11,
+      "oscar_winning": 3,
+      "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
+      "language": ["English", "Italian"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Actor",
+        "Best Adapted Screenplay"
+      ],
+      "oscar_winning_list": ["Best Picture", "Best Actor", "Best Adapted Screenplay"]
+    },
+    {
+      "title": "Titanic",
+      "year": "1997",
+      "genre": ["Drama", "Romance"],
+      "country": ["USA"],
+      "imdb_rating": 7.9,
+      "oscar_nominations": 14,
+      "oscar_winning": 11,
+      "cast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "language": ["English"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Director",
+        "Best Cinematography",
+        "Best Visual Effects"
+      ],
+      "oscar_winning_list": [
+        "Best Picture",
+        "Best Director",
+        "Best Cinematography",
+        "Best Visual Effects",
+        "Best Editing",
+        "Best Sound Mixing",
+        "Best Original Score",
+        "Best Original Song"
+      ]
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": "1994",
+      "genre": ["Crime", "Drama"],
+      "country": ["USA"],
+      "imdb_rating": 8.9,
+      "oscar_nominations": 7,
+      "oscar_winning": 1,
+      "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+      "language": ["English"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Actor",
+        "Best Supporting Actor",
+        "Best Director"
+      ],
+      "oscar_winning_list": ["Best Original Screenplay"]
+    },
+    {
+      "title": "Schindler's List",
+      "year": "1993",
+      "genre": ["Biography", "Drama", "History"],
+      "country": ["USA"],
+      "imdb_rating": 9.0,
+      "oscar_nominations": 12,
+      "oscar_winning": 7,
+      "cast": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+      "language": ["English", "Hebrew", "German"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Director",
+        "Best Cinematography"
+      ],
+      "oscar_winning_list": [
+        "Best Picture",
+        "Best Director",
+        "Best Cinematography",
+        "Best Adapted Screenplay"
+      ]
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003",
+      "genre": ["Action", "Adventure", "Drama"],
+      "country": ["New Zealand", "USA"],
+      "imdb_rating": 9.0,
+      "oscar_nominations": 11,
+      "oscar_winning": 11,
+      "cast": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+      "language": ["English", "Sindarin"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Director",
+        "Best Adapted Screenplay"
+      ],
+      "oscar_winning_list": [
+        "Best Picture",
+        "Best Director",
+        "Best Adapted Screenplay",
+        "Best Cinematography",
+        "Best Visual Effects",
+        "Best Original Score",
+        "Best Sound Mixing"
+      ]
+    },
+    {
+      "title": "Forrest Gump",
+      "year": "1994",
+      "genre": ["Drama", "Romance"],
+      "country": ["USA"],
+      "imdb_rating": 8.8,
+      "oscar_nominations": 13,
+      "oscar_winning": 6,
+      "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+      "language": ["English"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Actor",
+        "Best Director",
+        "Best Screenplay"
+      ],
+      "oscar_winning_list": [
+        "Best Picture",
+        "Best Actor",
+        "Best Director",
+        "Best Visual Effects"
+      ]
+    },
+    {
+      "title": "Gladiator",
+      "year": "2000",
+      "genre": ["Action", "Adventure", "Drama"],
+      "country": ["USA", "UK"],
+      "imdb_rating": 8.5,
+      "oscar_nominations": 12,
+      "oscar_winning": 5,
+      "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+      "language": ["English"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Actor",
+        "Best Cinematography",
+        "Best Costume Design"
+      ],
+      "oscar_winning_list": [
+        "Best Picture",
+        "Best Actor",
+        "Best Visual Effects",
+        "Best Costume Design"
+      ]
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "year": "1994",
+      "genre": ["Drama"],
+      "country": ["USA"],
+      "imdb_rating": 9.3,
+      "oscar_nominations": 7,
+      "oscar_winning": 0,
+      "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+      "language": ["English"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Actor",
+        "Best Adapted Screenplay",
+        "Best Cinematography"
+      ],
+      "oscar_winning_list": []
+    },
+    {
+      "title": "Saving Private Ryan",
+      "year": "1998",
+      "genre": ["Drama", "War"],
+      "country": ["USA"],
+      "imdb_rating": 8.6,
+      "oscar_nominations": 11,
+      "oscar_winning": 5,
+      "cast": ["Tom Hanks", "Matt Damon", "Tom Sizemore"],
+      "language": ["English", "French", "German"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Director",
+        "Best Actor",
+        "Best Screenplay"
+      ],
+      "oscar_winning_list": [
+        "Best Director",
+        "Best Cinematography",
+        "Best Editing",
+        "Best Sound Mixing"
+      ]
+    },
+    {
+      "title": "Interstellar",
+      "year": "2014",
+      "genre": ["Adventure", "Drama", "Sci-Fi"],
+      "country": ["USA", "UK"],
+      "imdb_rating": 8.6,
+      "oscar_nominations": 5,
+      "oscar_winning": 1,
+      "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+      "language": ["English"],
+      "oscar_nominations_list": [
+        "Best Visual Effects",
+        "Best Production Design",
+        "Best Sound Mixing"
+      ],
+      "oscar_winning_list": ["Best Visual Effects"]
+    },
+    {
+      "title": "Joker",
+      "year": "2019",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "country": ["USA"],
+      "imdb_rating": 8.4,
+      "oscar_nominations": 11,
+      "oscar_winning": 2,
+      "cast": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
+      "language": ["English"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Actor",
+        "Best Director",
+        "Best Original Score"
+      ],
+      "oscar_winning_list": ["Best Actor", "Best Original Score"]
+    },
+    {
+      "title": "Avatar",
+      "year": "2009",
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "country": ["USA"],
+      "imdb_rating": 7.8,
+      "oscar_nominations": 9,
+      "oscar_winning": 3,
+      "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+      "language": ["English", "Na'vi"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Director",
+        "Best Cinematography",
+        "Best Visual Effects"
+      ],
+      "oscar_winning_list": [
+        "Best Cinematography",
+        "Best Visual Effects",
+        "Best Art Direction"
+      ]
+    },
+    {
+      "title": "12 Years a Slave",
+      "year": "2013",
+      "genre": ["Biography", "Drama", "History"],
+      "country": ["USA", "UK"],
+      "imdb_rating": 8.1,
+      "oscar_nominations": 9,
+      "oscar_winning": 3,
+      "cast": ["Chiwetel Ejiofor", "Michael Fassbender", "Lupita Nyong'o"],
+      "language": ["English"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Actor",
+        "Best Supporting Actress",
+        "Best Director"
+      ],
+      "oscar_winning_list": [
+        "Best Picture",
+        "Best Supporting Actress",
+        "Best Adapted Screenplay"
+      ]
+    },
+    {
+      "title": "La La Land",
+      "year": "2016",
+      "genre": ["Comedy", "Drama", "Music"],
+      "country": ["USA"],
+      "imdb_rating": 8.0,
+      "oscar_nominations": 14,
+      "oscar_winning": 6,
+      "cast": ["Ryan Gosling", "Emma Stone", "John Legend"],
+      "language": ["English"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Actor",
+        "Best Actress",
+        "Best Director"
+      ],
+      "oscar_winning_list": [
+        "Best Actress",
+        "Best Director",
+        "Best Original Score",
+        "Best Cinematography"
+      ]
+    },
+    {
+      "title": "Slumdog Millionaire",
+      "year": "2008",
+      "genre": ["Drama", "Romance"],
+      "country": ["UK", "India"],
+      "imdb_rating": 8.0,
+      "oscar_nominations": 10,
+      "oscar_winning": 8,
+      "cast": ["Dev Patel", "Freida Pinto", "Anil Kapoor"],
+      "language": ["English", "Hindi"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Director",
+        "Best Cinematography",
+        "Best Adapted Screenplay"
+      ],
+      "oscar_winning_list": [
+        "Best Picture",
+        "Best Director",
+        "Best Original Score",
+        "Best Adapted Screenplay"
+      ]
+    },
+    {
+      "title": "The Social Network",
+      "year": "2010",
+      "genre": ["Biography", "Drama"],
+      "country": ["USA"],
+      "imdb_rating": 7.8,
+      "oscar_nominations": 8,
+      "oscar_winning": 3,
+      "cast": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"],
+      "language": ["English"],
+      "oscar_nominations_list": [
+        "Best Picture",
+        "Best Actor",
+        "Best Director",
+        "Best Screenplay"
+      ],
+      "oscar_winning_list": [
+        "Best Adapted Screenplay",
+        "Best Editing",
+        "Best Original Score"
+      ]
+    }
+  ]
+    
